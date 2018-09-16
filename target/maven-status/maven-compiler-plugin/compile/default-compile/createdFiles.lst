@@ -1,0 +1,13 @@
+com\websystique\springmvc\service\UserCapchaService.class
+com\websystique\springmvc\configuration\HelloWorldInitializer.class
+com\websystique\springmvc\configuration\HelloWorldConfiguration.class
+com\websystique\springmvc\configuration\CORSFilter.class
+com\websystique\springmvc\helper\VerifyRecaptcha.class
+com\websystique\springmvc\serviceimpl\UserCapchaServiceImpl.class
+com\websystique\springmvc\controller\UserRestController.class
+com\websystique\springmvc\entity\UserCapcha.class
+com\websystique\springmvc\repository\UserCapchaRepository.class
+com\websystique\springmvc\main\Application.class
+com\websystique\springmvc\model\User.class
+com\websystique\springmvc\configuration\JpaConfiguration.class
+com\websystique\springmvc\controller\IndexController.class
